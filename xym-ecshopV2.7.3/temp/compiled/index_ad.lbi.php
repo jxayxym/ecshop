@@ -1,7 +1,7 @@
 <?php if ($this->_var['index_ad'] == 'sys'): ?>
   <script type="text/javascript">
-  var swf_width=990;
-  var swf_height=335;
+  var swf_width=1018;
+  var swf_height=345;
   </script>
   <script type="text/javascript" src="data/flashdata/<?php echo $this->_var['flash_theme']; ?>/cycle_image.js"></script>
 <?php elseif ($this->_var['index_ad'] == 'cus'): ?>

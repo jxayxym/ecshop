@@ -35,10 +35,32 @@
 <?php echo $this->fetch('library/index_ad.lbi'); ?>
 </div>
 <div class="block clearfix">
+<div style="width:726px;" class="fl">
 <?php echo $this->fetch('library/brands_nav.lbi'); ?>
-<?php echo $this->_var['promotion_goods']['0']['name']; ?>
+</div>
+<div style="width:282;" class="fr">
+
+<?php $this->assign('ads_id','4'); ?><?php $this->assign('ads_num','1'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
+
+</div>
+</div>
+<div class="block clearfix">
+
+<?php $this->assign('ads_id','5'); ?><?php $this->assign('ads_num','1'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
+
 </div>
 
+
+<div class="clearfix block">
+	<?php if ($this->_var['hot_goods']): ?>
+	<?php echo $this->fetch('library/recommend_hot.lbi'); ?>  
+	<?php endif; ?> 
+</div>
+
+
+<div class="clearfix block">
+<?php echo $this->fetch('library/recommend_new.lbi'); ?>
+</div>
 
 <div class="block clearfix">
   <div id="pageLeft" class="fl">
@@ -158,19 +180,6 @@ if ($this->_foreach['promotion_foreach']['total'] > 0):
 	 </div>
 
 
-
-
-
-	 
-	 <div class="clearfix ">
-			<div class="w780">
-			<?php if ($this->_var['hot_goods']): ?>
-        <?php echo $this->fetch('library/recommend_hot.lbi'); ?>  
-			<?php endif; ?> 
-		 </div>
-
-	 </div>
-	 
 	 <div>
 	 </div>
 	 <?php if ($this->_var['best_goods']): ?>
@@ -178,8 +187,6 @@ if ($this->_foreach['promotion_foreach']['total'] > 0):
         <?php echo $this->fetch('library/recommend_best.lbi'); ?>     
 
 	 <?php endif; ?>
-        <?php echo $this->fetch('library/recommend_new.lbi'); ?> 
-        
         
  
 	</div>

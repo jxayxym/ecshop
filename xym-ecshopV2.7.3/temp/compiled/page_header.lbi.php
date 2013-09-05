@@ -91,7 +91,6 @@ if ($this->_foreach['nav_top_list']['total'] > 0):
       </li>
     </ul>
   </div>
-</div>
   <div class="Nalist">
     <div class="NalistCenter">
       <ul class="MenuList">
@@ -112,6 +111,7 @@ $k = array (
 echo $this->_echash . $k['name'] . '|' . serialize($k) . $this->_echash;
 ?></div>
     </div>
-  </div>
+  </div>  
+</div>
 </div>
 <div class="blank"></div>

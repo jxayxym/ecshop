@@ -81,7 +81,6 @@ var select_spe = "{$lang.select_spe}";
       </li>
     </ul>
   </div>
-</div>
   <div class="Nalist">
     <div class="NalistCenter">
       <ul class="MenuList">
@@ -93,6 +92,7 @@ var select_spe = "{$lang.select_spe}";
       <div class="cartinfo fr" id="ECS_CARTINFO" style="display:none">{insert_scripts files='transport.js'}
  {insert name='cart_info'}</div>
     </div>
-  </div>
+  </div>  
+</div>
 </div>
 <div class="blank"></div>

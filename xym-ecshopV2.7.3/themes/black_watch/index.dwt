@@ -44,11 +44,43 @@
 <!-- #BeginLibraryItem "/library/index_ad.lbi" --><!-- #EndLibraryItem -->
 </div>
 <div class="block clearfix">
+<div style="width:726px;" class="fl">
 <!-- #BeginLibraryItem "/library/brands_nav.lbi" --><!-- #EndLibraryItem -->
-{$promotion_goods.0.name}
+</div>
+<div style="width:282;" class="fr">
+<!-- TemplateBeginEditable name="首页品牌导航右边广告" -->
+<!-- #BeginLibraryItem "/library/ad_position.lbi" -->
+
+<div class="ads">
+{insert name='ads' id=$ads_id num=$ads_num}
+</div>
+ <!-- #EndLibraryItem -->
+<!-- TemplateEndEditable -->
+</div>
+</div>
+<div class="block clearfix">
+<!-- TemplateBeginEditable name="首页品牌导航下面广告" -->
+<!-- #BeginLibraryItem "/library/ad_position.lbi" -->
+
+<div class="ads">
+{insert name='ads' id=$ads_id num=$ads_num}
+</div>
+ <!-- #EndLibraryItem -->
+<!-- TemplateEndEditable -->
 </div>
 
-
+<!--hot start-->
+<div class="clearfix block">
+	<!-- {if $hot_goods} -->
+	<!-- #BeginLibraryItem "/library/recommend_hot.lbi" --><!-- #EndLibraryItem -->  
+	<!--{/if}--> 
+</div>
+<!--hot end-->
+<!--新品上架 -->
+<div class="clearfix block">
+<!-- #BeginLibraryItem "/library/recommend_new.lbi" --><!-- #EndLibraryItem -->
+</div>
+<!--结束-->
 <div class="block clearfix">
   <div id="pageLeft" class="fl">
 
@@ -163,19 +195,6 @@
 	 </div>
 
 
-
-
-
-	 <!--hot start-->
-	 <div class="clearfix ">
-			<div class="w780">
-			<!-- {if $hot_goods} -->
-        <!-- #BeginLibraryItem "/library/recommend_hot.lbi" --><!-- #EndLibraryItem -->  
-			<!--{/if}--> 
-		 </div>
-
-	 </div>
-	 <!--hot end-->
 	 <div>
 	 </div>
 	 <!--{if $best_goods} 精品推荐 START-->
@@ -183,8 +202,6 @@
         <!-- #BeginLibraryItem "/library/recommend_best.lbi" --><!-- #EndLibraryItem -->     
 
 	 <!--{/if} 精品推荐 END-->
-        <!-- #BeginLibraryItem "/library/recommend_new.lbi" --><!-- #EndLibraryItem --> 
-        
         <!-- TemplateBeginEditable name="商品右侧分类" -->
 <!-- TemplateEndEditable --> 
 	</div>

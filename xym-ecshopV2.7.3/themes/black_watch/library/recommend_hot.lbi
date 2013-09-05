@@ -1,14 +1,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <!-- {if $hot_goods} -->
-<!-- {if $cat_rec_sign neq 1} -->
-	 <div class="mod1 blank" >
-	  <span class="lt"></span><span class="lb"></span><span class="rt"></span><span class="rb"></span>
-      
-
-
-<h1 class="mod1tit" >
-		 {$lang.hot_goods}
+<h1 class="mod1tit" style="border-bottom:2px solid #000;padding-left:0;height: 26px;line-height:26px;background:none;">
+		 <img src="images/hot_03.jpg" alt="{$lang.hot_goods}" />
 		 <div class="more clearfix best" id="itemBest">
 		  {if $cat_rec[3]}
       <h2><a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 0);">{$lang.all_goods}</a> |</h2>
@@ -18,12 +12,12 @@
 			</h2>
       {/foreach}
       {/if}
-		  <a href="../search.php?intro=hot">更多</a>
+		  <h2 class="fl"><a href="../search.php?intro=hot">更多</a></h2>
 		 </div>
 		</h1>
-
-
-		<div class="recommendContent entry-content"  id="show_hot_area" >
+<!-- {if $cat_rec_sign neq 1} -->
+	 <div class="blank" >
+		<div class="recommendContent entry-content"  id="show_hot_area" style="background:#fff;" >
 		<!-- {/if} -->
 		 <!--{foreach from=$hot_goods item=goods}-->
 			<div class="goodsbox" >

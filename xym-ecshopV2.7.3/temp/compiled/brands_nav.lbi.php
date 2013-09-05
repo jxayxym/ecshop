@@ -1,7 +1,6 @@
 <?php if ($this->_var['brand_list']): ?>
-<div style="float:left;width:740px;">
-<h1 class="mod2tit" style=" position:relative;background:url(themes/black_watch/images/bg_nav_brands.gif) no-repeat; height:27px; color:#FFF">品牌导航<a href="brand.php" class="more"><font style="color:#FFF">全部品牌</font></a></h1>
-<div class="mod1 mod2 blank brandboxs1">
+<h1 class="mod2tit" style="background:url(themes/black_watch/images/title_05.jpg) no-repeat; height:29px; color:#FFF"><img src="themes/black_watch/images/index_03.jpg" alt="品牌导航"></h1>
+<div class="mod1 mod2 blank" style="height:252px;">
 	<span class="lb"></span><span class="rb"></span>
 	<div class="brandsL clearfix">
 		 <?php $_from = $this->_var['brand_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'brand');$this->_foreach['brand_foreach'] = array('total' => count($_from), 'iteration' => 0);
@@ -18,7 +17,6 @@ if ($this->_foreach['brand_foreach']['total'] > 0):
     <?php endif; ?>
    <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
 	</div>
-</div>
 </div>
 <?php endif; ?>
 <!--<div class="brandboxs blank">

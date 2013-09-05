@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:18:{i:0;s:60:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/index.dwt";i:1;s:74:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/page_header.lbi";i:2;s:74:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/ad_position.lbi";i:3;s:71:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/index_ad.lbi";i:4;s:73:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/brands_nav.lbi";i:5;s:76:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/category_tree.lbi";i:6;s:68:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/top10.lbi";i:7;s:69:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/brands.lbi";i:8;s:77:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/promotion_info.lbi";i:9;s:76:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/invoice_query.lbi";i:10;s:74:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/order_query.lbi";i:11;s:72:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/vote_list.lbi";i:12;s:76:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/recommend_hot.lbi";i:13;s:77:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/recommend_best.lbi";i:14;s:76:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/recommend_new.lbi";i:15;s:73:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/email_list.lbi";i:16;s:67:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/help.lbi";i:17;s:74:"D:/xampp/htdocs/me/ecshopV2.7.3/themes/black_watch/library/page_footer.lbi";}s:7:"expires";i:1378377696;s:8:"maketime";i:1378374096;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php exit;?>a:3:{s:8:"template";a:18:{i:0;s:68:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/index.dwt";i:1;s:82:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/page_header.lbi";i:2;s:82:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/ad_position.lbi";i:3;s:79:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/index_ad.lbi";i:4;s:81:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/brands_nav.lbi";i:5;s:84:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/recommend_hot.lbi";i:6;s:84:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/recommend_new.lbi";i:7;s:84:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/category_tree.lbi";i:8;s:76:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/top10.lbi";i:9;s:77:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/brands.lbi";i:10;s:85:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/promotion_info.lbi";i:11;s:84:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/invoice_query.lbi";i:12;s:82:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/order_query.lbi";i:13;s:80:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/vote_list.lbi";i:14;s:85:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/recommend_best.lbi";i:15;s:81:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/email_list.lbi";i:16;s:75:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/help.lbi";i:17;s:82:"D:/xampp/htdocs/ecshop/xym-ecshopV2.7.3/themes/black_watch/library/page_footer.lbi";}s:7:"expires";i:1378392178;s:8:"maketime";i:1378388578;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -91,7 +91,6 @@ var select_spe = "请选择商品属性";
             </li>
     </ul>
   </div>
-</div>
   <div class="Nalist">
     <div class="NalistCenter">
       <ul class="MenuList">
@@ -107,7 +106,8 @@ var select_spe = "请选择商品属性";
 		       </ul>
       <div class="cartinfo fr" id="ECS_CARTINFO" style="display:none"> 554fcae493e564ee0dc75bdf2ebf94cacart_info|a:1:{s:4:"name";s:9:"cart_info";}554fcae493e564ee0dc75bdf2ebf94ca</div>
     </div>
-  </div>
+  </div>  
+</div>
 </div>
 <div class="blank"></div>
 <div class="block clearfix">
@@ -116,15 +116,15 @@ var select_spe = "请选择商品属性";
 554fcae493e564ee0dc75bdf2ebf94caads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"1";s:3:"num";s:1:"1";}554fcae493e564ee0dc75bdf2ebf94ca</div><div class="ads">
 554fcae493e564ee0dc75bdf2ebf94caads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"2";s:3:"num";s:1:"1";}554fcae493e564ee0dc75bdf2ebf94ca</div>
   <script type="text/javascript">
-  var swf_width=990;
-  var swf_height=335;
+  var swf_width=1018;
+  var swf_height=345;
   </script>
   <script type="text/javascript" src="data/flashdata/default/cycle_image.js"></script>
 </div>
 <div class="block clearfix">
-<div style="float:left;width:740px;">
-<h1 class="mod2tit" style=" position:relative;background:url(themes/black_watch/images/bg_nav_brands.gif) no-repeat; height:27px; color:#FFF">品牌导航<a href="brand.php" class="more"><font style="color:#FFF">全部品牌</font></a></h1>
-<div class="mod1 mod2 blank brandboxs1">
+<div style="width:726px;" class="fl">
+<h1 class="mod2tit" style="background:url(themes/black_watch/images/title_05.jpg) no-repeat; height:29px; color:#FFF"><img src="themes/black_watch/images/index_03.jpg" alt="品牌导航"></h1>
+<div class="mod1 mod2 blank" style="height:252px;">
 	<span class="lb"></span><span class="rb"></span>
 	<div class="brandsL clearfix">
 		           			<a href="brand.php?id=1"><img src="data/brandlogo/1240803062307572427.gif" alt="诺基亚 (7)" /></a>
@@ -132,11 +132,107 @@ var select_spe = "请选择商品属性";
                        			<a href="brand.php?id=3"><img src="data/brandlogo/1240803144788047486.gif" alt="多普达 (1)" /></a>
              	</div>
 </div>
-</div>
 <!--<div class="brandboxs blank">
 </div>
 -->
-摩托罗拉E8 </div>
+</div>
+<div style="width:282;" class="fr">
+<div class="ads">
+554fcae493e564ee0dc75bdf2ebf94caads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"4";s:3:"num";s:1:"1";}554fcae493e564ee0dc75bdf2ebf94ca</div>
+</div>
+</div>
+<div class="block clearfix">
+<div class="ads">
+554fcae493e564ee0dc75bdf2ebf94caads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"5";s:3:"num";s:1:"1";}554fcae493e564ee0dc75bdf2ebf94ca</div>
+</div>
+<div class="clearfix block">
+		
+<h1 class="mod1tit" style="border-bottom:2px solid #000;padding-left:0;height: 26px;line-height:26px;background:none;">
+		 <img src="themes/black_watch/images/hot_03.jpg" alt="热销商品" />
+		 <div class="more clearfix best" id="itemBest">
+		        <h2><a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 0);">全部商品</a> |</h2>
+            <h2 class="h2bg">
+			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 3)">GSM手机</a> |
+			</h2>
+            <h2 class="h2bg">
+			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 5)">双模手机</a> |
+			</h2>
+            <h2 class="h2bg">
+			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 12)">充值卡</a> |
+			</h2>
+            <h2 class="h2bg">
+			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 13)">小灵通/固话充值卡</a> |
+			</h2>
+            <h2 class="h2bg">
+			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 14)">移动手机充值卡</a> |
+			</h2>
+            		  <h2 class="fl"><a href="search.php?intro=hot">更多</a></h2>
+		 </div>
+		</h1>
+	 <div class="blank" >
+		<div class="recommendContent entry-content"  id="show_hot_area" style="background:#fff;" >
+				 			<div class="goodsbox" >
+				<div class="imgbox"><a href="goods.php?id=24"><img src="images/200905/thumb_img/24_thumb_G_1241971981429.jpg" alt="P806" /></a></div>
+			 <a href="goods.php?id=24" title="P806">P806</a><br />
+              <font class="goodspice market">￥2400元</font>
+			 			 <b class="f1">￥2000元</b><br />
+			 
+			</div>
+					<div class="goodsbox" >
+				<div class="imgbox"><a href="goods.php?id=9"><img src="images/200905/thumb_img/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" /></a></div>
+			 <a href="goods.php?id=9" title="诺基亚E66">诺基亚E66</a><br />
+              <font class="goodspice market">￥2758元</font>
+			 			 <b class="f1">￥2298元</b><br />
+			 
+			</div>
+					<div class="goodsbox" >
+				<div class="imgbox"><a href="goods.php?id=1"><img src="images/200905/thumb_img/1_thumb_G_1240902890710.jpg" alt="KD876" /></a></div>
+			 <a href="goods.php?id=1" title="KD876">KD876</a><br />
+              <font class="goodspice market">￥1666元</font>
+			 			 <b class="f1">￥1388元</b><br />
+			 
+			</div>
+						</div>
+   </div>
+  
+	 
+</div>
+<div class="clearfix block">
+	  <h1 class="mod1tit">
+	  <img src="themes/black_watch/images/new_61.jpg" alt="新品上市" />
+		</h1>
+		<div class="fl" style="width:728px;height:216px;">
+		<img src="themes/black_watch/images/BANNER1.jpg" alt="天梭" />
+		</div>
+		<div class="fr">
+		<img src="themes/black_watch/images/pic1.jpg" alt="天梭" />
+		</div>
+	 <div class="mod1 blank" style="clear:right;">
+		<div class="recommendContent entry-content"  id="show_new_area" >
+				 			<div class="goodsbox">
+				<div class="imgbox"><a href="goods.php?id=24"><img src="images/200905/thumb_img/24_thumb_G_1241971981429.jpg" alt="P806" /></a></div>
+			 <a href="goods.php?id=24" title="P806">P806</a><br />
+            <font class="goodspice market">￥2400元</font>
+			 			 <b class="f1">￥2000元</b><br />
+			 
+			</div>
+					<div class="goodsbox">
+				<div class="imgbox"><a href="goods.php?id=9"><img src="images/200905/thumb_img/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" /></a></div>
+			 <a href="goods.php?id=9" title="诺基亚E66">诺基亚E66</a><br />
+            <font class="goodspice market">￥2758元</font>
+			 			 <b class="f1">￥2298元</b><br />
+			 
+			</div>
+					<div class="goodsbox">
+				<div class="imgbox"><a href="goods.php?id=1"><img src="images/200905/thumb_img/1_thumb_G_1240902890710.jpg" alt="KD876" /></a></div>
+			 <a href="goods.php?id=1" title="KD876">KD876</a><br />
+            <font class="goodspice market">￥1666元</font>
+			 			 <b class="f1">￥1388元</b><br />
+			 
+			</div>
+						</div>
+   </div>
+</div>
 <div class="block clearfix">
   <div id="pageLeft" class="fl">
 	<h1 class="mod2tit" style="background:url(themes/black_watch/images/cateBg.gif); height:27px; line-height:27px;"><a href="catalog.php"><font  style="color:#FFF; font-size:14px;">所有分类</font></a></h1>
@@ -439,63 +535,6 @@ padding-bottom:5px;
  
 		 </div>
 	 </div>
-	 
-	 <div class="clearfix ">
-			<div class="w780">
-			        
-	 <div class="mod1 blank" >
-	  <span class="lt"></span><span class="lb"></span><span class="rt"></span><span class="rb"></span>
-      
-<h1 class="mod1tit" >
-		 热销商品		 <div class="more clearfix best" id="itemBest">
-		        <h2><a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 0);">全部商品</a> |</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 3)">GSM手机</a> |
-			</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 5)">双模手机</a> |
-			</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 12)">充值卡</a> |
-			</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 13)">小灵通/固话充值卡</a> |
-			</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemBest', 'h2', this);get_cat_recommend(3, 14)">移动手机充值卡</a> |
-			</h2>
-            		  <a href="search.php?intro=hot">更多</a>
-		 </div>
-		</h1>
-		<div class="recommendContent entry-content"  id="show_hot_area" >
-				 			<div class="goodsbox" >
-				<div class="imgbox"><a href="goods.php?id=24"><img src="images/200905/thumb_img/24_thumb_G_1241971981429.jpg" alt="P806" /></a></div>
-			 <a href="goods.php?id=24" title="P806">P806</a><br />
-              <font class="goodspice market">￥2400元</font>
-			 			 <b class="f1">￥2000元</b><br />
-			 
-			</div>
-					<div class="goodsbox" >
-				<div class="imgbox"><a href="goods.php?id=9"><img src="images/200905/thumb_img/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" /></a></div>
-			 <a href="goods.php?id=9" title="诺基亚E66">诺基亚E66</a><br />
-              <font class="goodspice market">￥2758元</font>
-			 			 <b class="f1">￥2298元</b><br />
-			 
-			</div>
-					<div class="goodsbox" >
-				<div class="imgbox"><a href="goods.php?id=1"><img src="images/200905/thumb_img/1_thumb_G_1240902890710.jpg" alt="KD876" /></a></div>
-			 <a href="goods.php?id=1" title="KD876">KD876</a><br />
-              <font class="goodspice market">￥1666元</font>
-			 			 <b class="f1">￥1388元</b><br />
-			 
-			</div>
-						</div>
-   </div>
-  
-			 
-		 </div>
-	 </div>
-	 
 	 <div>
 	 </div>
 	 
@@ -546,57 +585,7 @@ padding-bottom:5px;
 						</div>
    </div>
      
-	         	 <div class="mod1 blank">
-	  <span class="lt"></span><span class="lb"></span><span class="rt"></span><span class="rb"></span>
-      
-	  <h1 class="mod1tit">
-		 新品上市		 <div class="more clearfix best" id="itemNew">
-		        <h2><a href="javascript:void(0)" onclick="change_tab_style('itemNew', 'h2', this);get_cat_recommend(2, 0);">全部商品</a> |</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemNew', 'h2', this);get_cat_recommend(2, 3)">GSM手机</a> |
-			</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemNew', 'h2', this);get_cat_recommend(2, 5)">双模手机</a> |
-			</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemNew', 'h2', this);get_cat_recommend(2, 12)">充值卡</a> |
-			</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemNew', 'h2', this);get_cat_recommend(2, 14)">移动手机充值卡</a> |
-			</h2>
-            <h2 class="h2bg">
-			<a href="javascript:void(0)" onclick="change_tab_style('itemNew', 'h2', this);get_cat_recommend(2, 15)">联通手机充值卡</a> |
-			</h2>
-            		  <a href="search.php?intro=new">更多</a>
-		 </div>
-		</h1>
-		<div class="recommendContent entry-content"  id="show_new_area" >
-				 			<div class="goodsbox">
-				<div class="imgbox"><a href="goods.php?id=24"><img src="images/200905/thumb_img/24_thumb_G_1241971981429.jpg" alt="P806" /></a></div>
-			 <a href="goods.php?id=24" title="P806">P806</a><br />
-            <font class="goodspice market">￥2400元</font>
-			 			 <b class="f1">￥2000元</b><br />
-			 
-			</div>
-					<div class="goodsbox">
-				<div class="imgbox"><a href="goods.php?id=9"><img src="images/200905/thumb_img/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" /></a></div>
-			 <a href="goods.php?id=9" title="诺基亚E66">诺基亚E66</a><br />
-            <font class="goodspice market">￥2758元</font>
-			 			 <b class="f1">￥2298元</b><br />
-			 
-			</div>
-					<div class="goodsbox">
-				<div class="imgbox"><a href="goods.php?id=1"><img src="images/200905/thumb_img/1_thumb_G_1240902890710.jpg" alt="KD876" /></a></div>
-			 <a href="goods.php?id=1" title="KD876">KD876</a><br />
-            <font class="goodspice market">￥1666元</font>
-			 			 <b class="f1">￥1388元</b><br />
-			 
-			</div>
-						</div>
-   </div>
- 
-        
-        
+	         
  
 	</div>
 </div>
@@ -781,7 +770,7 @@ function check_email()
  &copy; 2005-2013 ECSHOP 版权所有，并保留所有权利。<br />
               <a href="http://www.68ecshop.com" style="display:none;">68ECSHOP模版中心</a>                                                           <br />
     554fcae493e564ee0dc75bdf2ebf94caquery_info|a:1:{s:4:"name";s:10:"query_info";}554fcae493e564ee0dc75bdf2ebf94ca<br />
-  <a href="http://www.ecshop.com" target="_blank" style=" font-family:Verdana; font-size:11px;">Powered&nbsp;by&nbsp;<strong><span style="color: #3366FF">ECShop</span>&nbsp;<span style="color: #FF9966">v2.7.3</span></strong></a>&nbsp;<a href="http://www.ecshop.com/license.php?product=ecshop_b2c&url=http%3A%2F%2Flocalhost%2Fme%2FecshopV2.7.3%2F" target="_blank"
+  <a href="http://www.ecshop.com" target="_blank" style=" font-family:Verdana; font-size:11px;">Powered&nbsp;by&nbsp;<strong><span style="color: #3366FF">ECShop</span>&nbsp;<span style="color: #FF9966">v2.7.3</span></strong></a>&nbsp;<a href="http://www.ecshop.com/license.php?product=ecshop_b2c&url=http%3A%2F%2Flocalhost%2Fecshop%2Fxym-ecshopV2.7.3%2F" target="_blank"
 >&nbsp;&nbsp;Licensed</a><br />
         <a href="http://www.68ecshop.com">68ecshop版权所有</a>
 </div>

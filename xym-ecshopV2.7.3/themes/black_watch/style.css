@@ -23,7 +23,7 @@ h1,h2,h3,h4,h5,h6{
 font-size:12px;
 }
 .block{
-width:990px; height:auto;
+width:1018px; height:auto;
 }
 .blank{margin-bottom:8px;}
 .blank1{ margin-bottom:15px;}
@@ -138,15 +138,15 @@ a:active {color: #424242; text-decoration:none;}
 
 /* ====================通用模块==================== */
 .mod1{
-border:1px solid #555;  position:relative; min-height:2px; _height:2px;
+border:1px solid #392e1b;  position:relative; min-height:2px; background:#fff;
 }
 .mod1 span{
 display:block; width:5px; height:5px; position:absolute; overflow:hidden;
 }
 
 .mod1tit{
-font-weight:bold; font-size:14px; height:35px; line-height:35px; /*margin-bottom:10px;*/
-padding-left:15px; position:relative;color:#1D1D1D;background-color:#F4F4F4; border-bottom:1px #ccc solid
+font-weight:bold; font-size:14px; height:29px; line-height:29px; margin-bottom:7px;
+position:relative;background:url("images/title_04.jpg") repeat-x;
 }
 .mod1tit .more{
 position:absolute; top:0px; right:10px; font-weight:100; font-size:12px;
@@ -399,7 +399,7 @@ height:368px; padding:1px; overflow:hidden;
 
 .recommendContent{ padding:10px;}
 .recommendContent .goodsbox{width:175px; text-align:center;  margin:5px 9px 10px 1px; *margin:5px 3px 10px 10px;}
-.recommendContent .goodsbox .imgbox{ width:170px; height:170px;border:1px solid #e9e9e9; margin:0 2px 5px 2px;}
+.recommendContent .goodsbox .imgbox{ width:170px; height:170px;border:1px solid #fff; margin:0 2px 5px 2px;}
 
 /*top10*/
 #top10{
@@ -1321,9 +1321,9 @@ table, td, th {
 a {font-size: 12px;color: #464646;text-decoration: none;}
 a:hover {text-decoration: none;color: #000000;}
 
-.AllWrap{ margin:0 auto; width:100%;background:#000;}
+.AllWrap{ margin:0 auto; width:100%;background:url("images/top_01.jpg") repeat-x;}
 .AllWrapInside{ margin:0 auto; width:999px; }
-     .headerInfo               { height:120px;width:999px;position:relative;}
+     .headerInfo               { height:143px;width:1018px;position:relative;}
 	.headerInfo  .logo        { position:absolute; left:6px; top:3px }
 	.headerInfo  .Landing     { padding-top:6px; color:#ffffff}
 	.headerInfo  .Landing  a{color:#ffffff}
@@ -1344,14 +1344,14 @@ a:hover {text-decoration: none;color: #000000;}
 	.headerInfo  .Search .search_advsearch{line-height:14px;*line-height:18px;height:20px;}
 	.headerInfo  .Search .search_input{width:200px;line-height:14px;height:20px;background:none;border:none;}
 	.headerInfo  .Search .search_button{width:20px;background:none;border:none;line-height:20px;height:20px;cursor:pointer;}
-	.Nalist { background:url(images/ttop.gif); height:41px; width:100%;}
-	.Nalist .MenuList { list-style-type: none; margin: 0; padding: 0; float: left; }
-	.Nalist .MenuList li { float: left; background:url(images/linetop.gif) no-repeat right center;}
-	.Nalist .MenuList li a{float:left;height:41px; width:85px;text-align:center; line-height:41px;color:#c3c3c3; font-size:14px; }
-	.Nalist .MenuList li a:hover {color:#000000; background:#fffff0}
-	.Nalist .MenuList li.curs a{color:#000000; background:#fffff0}
-	.Nalist .MenuList li .Current {color:#fff}
-	.Nalist .NalistCenter{width:999px;marign:0 auto;}
+	.headerInfo  .Nalist {position:absolute;top:98px;width:100%;}
+	.headerInfo  .Nalist .MenuList { list-style-type: none; margin: 0; padding: 0; float: left; }
+	.headerInfo  .Nalist .MenuList li { float: left; background:url(images/linetop.gif) no-repeat right center;}
+	.headerInfo  .Nalist .MenuList li a{float:left;width:85px;text-align:center;line-height:31px;height:31px;color:#fff; font-size:14px; }
+	.headerInfo  .Nalist .MenuList li a:hover {color:#000000; background:#fffff0}
+	.headerInfo  .Nalist .MenuList li.curs a{color:#fff;}
+	.headerInfo  .Nalist .MenuList li .Current {color:#fff}
+	.headerInfo  .Nalist .NalistCenter{width:999px;marign:0 auto;}
 	.headerInfo  .topbtn   { position:absolute; height:17px; line-height:23px; left:16px; top:121px }
 	.headerInfo  .topbtn .a {padding-left:18px;margin-top:-3px;}
 	.headerInfo  .topbtn .b {padding-left:18px;margin-top:-3px;}

@@ -9,7 +9,7 @@ $db_name   = "xym_ecshop";
 $db_user   = "root";
 
 // database password
-$db_pass   = "123456";
+$db_pass   = "19871020";
 
 // table prefix
 $prefix    = "ym_";
@@ -30,7 +30,7 @@ define('AUTH_KEY', 'this is a key');
 
 define('OLD_AUTH_KEY', '');
 
-define('API_TIME', '2013-09-05 15:38:51');
+define('API_TIME', '2013-09-05 20:03:14');
 
 // define('DEBUG_MODE', 2);
 ?>
